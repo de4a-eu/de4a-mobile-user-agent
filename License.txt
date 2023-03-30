@@ -1,0 +1,51 @@
+Research, evaluation and study license for the DE4A Mobile User Agent 
+
+1. Definitions. 
+
+"License" shall mean these terms and conditions, governing the use, reproduction, and distribution of the Software. 
+
+"Licensor" shall mean the copyright owner of the Software that is granting the License, specifically ATOS SPAIN SA, established in CALLE DE ALBARRACIN 25, MADRID 28037, Spain, registered under VAT number: 
+ESA28240752. 
+
+"You" (or "Your") shall mean an individual or legal entity exercising permissions granted by this License.  
+
+"Source" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files. 
+
+"Object" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media 
+types. 
+
+"Software" shall mean the DE4A Mobile User Agent software, as made available by the Licensor in Object code form only under the License within the context of the EU funded project DE4A (Grant Agreement number 
+870635), as indicated by a copyright notice that is included in or attached to the Software. This License shall not apply to any future iterations, versions or modifications of the Software created, and does not 
+grant any rights in relation to the Software in Source code form.  
+
+"Derivative Works" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Software and for which the editorial revisions, annotations, elaborations, or other modifications 
+represent, as a whole, an original work of authorship.  
+
+2. Grant of Copyright License. Subject to the terms and conditions of this License, Licensor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to use 
+the Software for Your own research, evaluation or study activities. This includes the right to analyse the functioning and capabilities of the Software, or to publicly display or perform the Software insofar as this 
+is a part of Your research, evaluation or study activities. This License is only available to individual persons and legal entities that habitually engage in such activities; it is notably not available to consumers, 
+who cannot avail themselves of any rights under this License. .  
+
+3. Reserved rights and limitations. All other rights than those set out in Section 2 are explicitly reserved by the Licensor, and no rights or assurances are provided beyond those stated explicitly  under Section 2. 
+Specifically and without limitation, the License does not include any right to exploit the Software in any way (whether for profit or not), to deploy or use it in operational environments for other purposes than 
+research, study or evaluation;  nor does it include the right to sublicense it, modify it, distribute it to third parties, or create any Derivative Works. The License does not include a right to decompile the 
+Software or to convert the Object code of the Software to Source in Source or Object form except where explicitly permitted under binding law that applies to You. The License does not grant permission to use the 
+trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Software. The License does not related to any patent 
+rights or claims that may apply to the Software.  
+
+ 
+
+4. Attribution. With any use permitted by this License, You shall include an accessible notice stating that “This software is © 2023. It is licensed by ATOS SPAIN SA. The software was developed within the context of 
+the DE4A project. This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 870635.” 
+
+5. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Software on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, 
+including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or 
+redistributing the Software and assume any risks associated with Your exercise of permissions under this License. The Software reflects the Licensor’s efforts, and  
+
+6. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or 
+agreed to in writing, shall Licensor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use 
+or inability to use the Software (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if Licensor can be 
+shown to have been advised of the possibility of such damages. 
+
+7. The interpretation and application of this License shall be subject exclusively to the laws of Spain. You and Licensor explicitly reject the application of the Vienna Convention to this Agreement. All disputes 
+between You and Licensor arising in connection to this License shall be exclusively settled by the competent courts of the Licensor’s place of establishment. 
