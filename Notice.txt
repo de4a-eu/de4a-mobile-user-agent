@@ -1,0 +1,30 @@
+© 2023, ATOS SPAIN S.A. All rights reserved. This software (Mobile User Agent) is licensed by ATOS SPAIN S.A. and was developed within the context of the DE4A project. This project has received funding from the European Unionís Horizon 2020 research and innovation programme under grant agreement No 870635.
+=============================================================================
+= Attributions from NOTICE files corresponding to section 4d of the Apache License Version 2.0†from libraries used by this software
+=============================================================================
+This software contains libraries or other software that is governed by an open source license, including notably the Apache Software License, version 2.0 (https://www.apache.org/licenses/LICENSE-2.0). The following Apache libraries or other software are used:
+-Software licensed by The Android Open Source Project
+-Software licensed by JetBrains s.r.o.
+-Software licensed by Google
+-Software licensed by Deniz Coskun
+-Software licensed by The ACRA Project
+-Software licensed by Yuriy Budiyev
+-Software licensed by Apache Software Foundation
+-Software licensed by KRATOS
+-Software licensed by Niek Haarman
+-Software licensed by Mockito Team
+-Software licensed by The Apache Software Foundation
+-Software licensed by Square, Inc.
+-Software licensed by Tyro Payments Ltd
+-Software licensed by Wasabeef
+-Software licensed by yuyh
+-Software licensed by Vladimir Dzhuvinov
+-Software licensed by Juan Benet
+-Software licensed by web3j
+-Software licensed by Microsoft Corporation
+-Software licensed by Eric Erdtman
+-Software licensed by SonarSource
+-Software licensed by Marc R. Hoffmann
+-Software licensed by Jared Burrows
+-Software licensed by JUnit
+-Software licensed by Protocol Labs
