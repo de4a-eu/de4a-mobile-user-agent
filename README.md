@@ -3,5 +3,5 @@ Repository to store mobile apk and its corresponding manual.
 
 There are two files in the repository:
 
-DE4A Mobile App Manual v0.2.pdf, this is the app manual. Read it first.
+DE4A Mobile User Agent Manual v0.2.pdf, this is the app manual. Read it first.
 de4a-mobile-user-agent.apk, this is the mobile app to be downloaded to your mobile device
